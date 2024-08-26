@@ -78,6 +78,12 @@ button, .navButton{
 
 }
 
+.noDecoration {
+
+    text-decoration: none;
+
+}
+
 /* Nav Section */
 
 nav {
