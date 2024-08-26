@@ -22,7 +22,7 @@ $(".navButton").on('click', function(event){
 
 $(".navButton, button").hover(
     
-    function(){
+    function(){ 
 
     $(this).addClass("buttonHover");
 
